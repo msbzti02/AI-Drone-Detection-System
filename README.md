@@ -14,9 +14,6 @@
 [![CARLA](https://img.shields.io/badge/CARLA-0.9.x-FF6B35?style=flat-square&logo=unreal-engine&logoColor=white)](https://carla.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🎯+Real-Time+Object+Detection;🚀+Optimized+for+Edge+Deployment;🔥+25%2B+FPS+%7C+80%25%2B+mAP;⚡+TensorRT+FP16+Acceleration" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -259,14 +256,8 @@ After running benchmarks, you'll get:
 - [CARLA Simulator](https://carla.org/)
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)
 
----
-
-<div align="center">
-
-### 🌟 Star this repo if you find it useful!
-
-Made with ❤️ for Edge AI Research
 
 [![GitHub Stars](https://img.shields.io/github/stars/username/edge-ai-drone-detection?style=social)](https://github.com/username/edge-ai-drone-detection)
 
 </div>
+
